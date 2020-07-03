@@ -1,0 +1,16 @@
+{
+  "name": "reactiver-theme",
+  "version": "1.0.0",
+  "description": "Frontity package created using the Frontity CLI.",
+  "keywords": [
+    "frontity",
+    "frontity-theme"
+  ],
+  "license": "Apache-2.0",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "frontity": "^1.10.0",
+    "react-share": "^4.2.0",
+    "reactstrap": "^8.5.1"
+  }
+}
